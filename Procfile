@@ -1,0 +1,1 @@
+web: gunicorn mypot.wsgi --log-file -
